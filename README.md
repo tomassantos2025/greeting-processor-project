@@ -1,9 +1,12 @@
-# Assignment: Kotlin Greeting & Regex Annotation Processors
+# Tutorial 3.1 & 3.2: Kotlin Greeting & Regex Annotation Processors
 
 Course: Mobile Computing
+
 Student(s): Tomás Santos
+
 Date: 2026-04-22
-Repository URL: https://github.com/tomassantos2025/GreetingProcessorProject
+
+Repository URL: github.com/tomassantos2025/GreetingProcessorProject
 
 ---
 
@@ -326,4 +329,4 @@ Used for:
 * Code explanation
 * Validation support
 
-Final responsibility remains with the author.
+> Final responsibility remains with the author.
